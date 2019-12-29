@@ -1,5 +1,4 @@
 import { createReducer, on } from '@ngrx/store';
-
 import { LayoutActions } from '@app/core/actions';
 
 export const layoutFeatureKey = 'layout';
